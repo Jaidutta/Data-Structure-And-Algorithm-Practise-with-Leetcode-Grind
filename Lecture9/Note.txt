@@ -1,0 +1,7 @@
+Video 10:
+1. RotateArray
+2. LinearSearch
+3. ProductofArrayExceptSelf
+4. RainwaterTrapping
+
+

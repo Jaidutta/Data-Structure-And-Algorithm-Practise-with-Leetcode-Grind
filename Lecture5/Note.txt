@@ -1,0 +1,6 @@
+Video 6
+
+1. Fibonacci Series: 17 min to 1 hr
+2. SumOfDigits: 1 hr 4 min to 1hr 22 min
+3. ReverseANumber: 1hr 22 min to 1hr 33 min
+4. HCF: 1hr 34min to
