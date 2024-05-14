@@ -1,0 +1,7 @@
+General rules for mirror
+1. Unless there is number, vertical mirror must be ignored
+2. Bad wala space hamesha ignore kare look at pattern 9
+3. If there is number or $ or anything, first try making the *  pattern and then start working on it
+4. i++ should be the last statement in a mirror
+
+To balance an extra star, look at pattern 19

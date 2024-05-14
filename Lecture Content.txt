@@ -1,0 +1,63 @@
+Lecture 1: General
+           Arithmetic Operators
+           Conditional Statement
+           Demo
+           Grade_Card
+           Odd Even
+           Operator_2
+           Simple_Interest
+           While_Loop_Demo
+Lecture 2: Triangle Perimeter
+           Table of 3
+           Only Odd numbers in table of 3
+           Pattern 1
+           Pattern 2
+           Pattern 3
+           Pattern 4
+
+Lecture 3:
+            More Patterns
+
+Lecture 4:
+            More Patterns
+            PrimeOrNot
+            ForLoopDemo
+            BreakDemo
+Lecture5:
+            1. Fibonacci
+            2. SumOfDigits
+            3. ReverseANumber
+            4. HCF
+            5. BinaryToDecimal
+            6. DecimalToBinary
+
+Lecture 6
+            1.DataTypeDemo
+            2. TypeCastingDemo
+            3. PostFixPrefix
+
+Lecture7
+            1. FunctionDemo1
+            2. FunctionDemo2
+            3. FunctionDemo3
+            4. FunctionDemo4
+            5. InverseOfNumber
+
+Lecture8
+            1. ArraysDemo
+            2. Swap1
+            3. Swap2
+            4. Swap3
+            5. Max
+            6. Array_Reverse
+
+Lecture9
+            1. RotateArray
+            2. LinearSearch
+            3. ProductofArrayExceptSelf
+            4. RainwaterTrapping
+
+Lecture10
+
+
+

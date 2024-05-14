@@ -1,0 +1,11 @@
+Video: 12
+Discussed chebaccha number : 14 min to  42 min
+Boston Number 42 min to 50
+MaxSubarraySum : 56 min - 1 hr 20min
+
+Kadene's Algorithm: 1hr 21 min to 2hr
+
+Binary Search: 2hr
+
+
+Problems covered

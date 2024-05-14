@@ -1,0 +1,2 @@
+all int value represented are by default int
+all decimal value represented are by default double

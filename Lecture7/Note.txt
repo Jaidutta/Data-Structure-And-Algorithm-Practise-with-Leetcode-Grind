@@ -1,0 +1,6 @@
+Lecture
+        FunctionDemo1
+        FunctionDemo2
+        FunctionDemo3
+        FunctionDemo4
+        InverseOfNumber

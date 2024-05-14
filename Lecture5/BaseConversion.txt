@@ -1,0 +1,9 @@
+BinaryToDecimal --> to Decimal --> % 10, /10 and  mult * 2 <-- From
+
+DecimalToBinary --> To --> /2 , % 2 and * 10 <-- From
+
+The above rules will not work if there is no decimal base involved
+
+If we want to go from a base to base that is not decimal
+                 then
+   we will have to go from that base to decimal first and then decimal to the desired base
